@@ -1,0 +1,18 @@
+{
+  "name": "transliterate-files-and-dirs",
+  "version": "1.0.0",
+  "repository": "fernandofranca/transliterate-files-and-dirs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "readdirp": "^2.1.0",
+    "transliteration": "^1.6.2"
+  }
+}
